@@ -11,7 +11,7 @@ Florencia Martino, Kakhangchung Panmei, Dylan Duchen, David L. Thomas, Abraham J
 ---
 
 ## Overview
-This repository contains the analysis code, reference data, and reproducible workflows associated with the PSB 2025 poster titled:
+This repository contains the analysis code, and reproducible workflows associated with the PSB 2025 poster titled:
 
 > **“Benchmarking Rao’s Q as a Reproducible, Quantitative, Evolution-Aware Metric of Viral α-Diversity for Metagenomic Data.”**
 
@@ -39,7 +39,7 @@ The repository is organized as follows:
 
 ---
 
-## Installation
+## Copy the repository
 
 Clone the repository:
 
