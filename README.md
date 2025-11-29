@@ -38,7 +38,7 @@ The repository is organized as follows:
   Environment specification files (for example `environment.yml` or `requirements.txt`) to recreate the software environment.
 
 - `poster/`  
-  PDF version of the PSB 2025 poster and any slide decks, if applicable.
+  PDF version and abstract file of the PSB 2025 poster.
 
 ---
 
