@@ -34,9 +34,6 @@ The repository is organized as follows:
 - `figures/`  
   Exported figures used in the poster (PDF/PNG/SVG).
 
-- `envs/`  
-  Environment specification files (for example `environment.yml` or `requirements.txt`) to recreate the software environment.
-
 - `poster/`  
   PDF version and abstract file of the PSB 2025 poster.
 
