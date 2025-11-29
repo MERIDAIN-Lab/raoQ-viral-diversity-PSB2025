@@ -28,12 +28,6 @@ The repository is organized as follows:
   - running dilution-series benchmarking  
   - robustness analyses (tree perturbations, cross-mapping, tree collapsing)
 
-- `data/`  
-  Minimal example datasets required to reproduce key results:
-  - example abundance tables  
-  - example distance matrices or phylogenetic trees  
-  - small test subsets of the M13 dilution series and Anelloviridae runs
-
 - `notebooks/`  
   Jupyter or RMarkdown notebooks reproducing the main analyses and figures shown in the poster.
 
