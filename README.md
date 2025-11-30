@@ -39,6 +39,20 @@ The repository is organized as follows:
 
 ---
 
+## Contact
+
+For questions about the analysis, data, or reproducibility framework, please contact:
+
+**Florencia Martino**
+Division of Infectious Diseases, Johns Hopkins University School of Medicine
+Email: **[florenmartino@gmail.com](mailto:fmarti34@jh.edu)**
+
+**Steven J. Clipman**
+Division of Infectious Diseases, Johns Hopkins University School of Medicine
+Email: **[sclipma1@jhmi.edu](mailto:sclipma1@jhmi.edu)**
+
+---
+
 ## Copy the repository
 
 Clone the repository:
