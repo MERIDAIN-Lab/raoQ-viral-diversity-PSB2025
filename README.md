@@ -45,7 +45,7 @@ For questions about the analysis, data, or reproducibility framework, please con
 
 **Florencia Martino**
 Division of Infectious Diseases, Johns Hopkins University School of Medicine
-Email: **[florenmartino@gmail.com](mailto:fmarti34@jh.edu)**
+Email: **[fmarti34@jh.edu](mailto:fmarti34@jh.edu)**
 
 **Steven J. Clipman**
 Division of Infectious Diseases, Johns Hopkins University School of Medicine
