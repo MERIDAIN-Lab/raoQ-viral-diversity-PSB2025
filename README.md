@@ -9,7 +9,7 @@ To avoid confusion and to use a correctly named link, the project has been moved
 👉 **Correct repository (PSB 2026):**  
 https://github.com/MERIDAIN-Lab/raoQ-viral-diversity-PSB2026
 
-This `...PSB2025` repository is kept online only because its link was already submitted to the conference system.  
+This `...PSB2025` repository is kept online only because its link was already used.  
 For all code, analyses, figures, and reproducible workflows, please refer to the PSB 2026 repository above.
 
 ## Contact
